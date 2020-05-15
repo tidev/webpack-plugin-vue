@@ -1,0 +1,49 @@
+{
+  "name": "@titanium-sdk/webpack-plugin-vue",
+  "version": "0.1.0",
+  "description": "Titanium Vue Plugin for Appcd Webpack",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "yarn run lint"
+  },
+  "keywords": [
+    "titanium",
+    "webpack",
+    "vue",
+    "appcd"
+  ],
+  "author": "Axway Appcelerator",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appcelerator/webpack-plugin-vue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/appcelerator/webpack-plugin-vue/issues"
+  },
+  "homepage": "https://github.com/appcelerator/webpack-plugin-vue#readme",
+  "dependencies": {
+    "loader-utils": "2.0.0",
+    "vue-loader": "^15.9.2",
+    "titanium-vdom": "^0.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-axway": "^4.6.0",
+    "webpack": "^4.43.0"
+  },
+  "peerDependencies": {
+    "titanium-vue-template-compiler": ">=0.1.0",
+    "webpack": "^4.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "lib"
+  ],
+  "engines": {
+    "node": ">=10.0.0"
+  }
+}
