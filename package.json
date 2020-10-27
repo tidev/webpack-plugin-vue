@@ -29,7 +29,7 @@
     "titanium-vdom": "^0.3.2"
   },
   "devDependencies": {
-    "eslint": "^7.11.0",
+    "eslint": "^7.12.1",
     "eslint-config-axway": "^5.0.0",
     "webpack": "^4.43.0"
   },
