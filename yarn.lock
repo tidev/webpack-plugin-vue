@@ -3101,10 +3101,10 @@ timers-browserify@^2.0.4:
   dependencies:
     setimmediate "^1.0.4"
 
-titanium-vdom@^0.3.2:
-  version "0.3.2"
-  resolved "https://registry.yarnpkg.com/titanium-vdom/-/titanium-vdom-0.3.2.tgz#8734881725b561752832e8c3c9b5de3a92133609"
-  integrity sha512-l/DU4UbZk4CD6P0dYTt3uq4X5j7KXHsPl17J12Z+kekjuyv6JwENjBG83jRVKIO7lz3wd/s1OoJeTGx6ihMdlw==
+titanium-vdom@^0.4.4:
+  version "0.4.4"
+  resolved "https://registry.yarnpkg.com/titanium-vdom/-/titanium-vdom-0.4.4.tgz#eaed4ad88220b4214e9ba6bac8acbd498b2143b8"
+  integrity sha512-8UWzUtHEYpo7sgaQp/NWLENikJ+Ur3BXQExjtyb/dK1Vb3CqB9Yc9cE2OuDanozfsaXIZQH/HBnlifHHWEB33g==
   dependencies:
     tslib "^1.9.3"
 
